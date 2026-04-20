@@ -36,6 +36,6 @@ tr:nth-child(odd) {background-color: #f2f2f2;}
   Added by: @tomm-aus
  */
 div {
-  background-color: darkcyan;
+  background-color: blue;
   text-align: right;
 }
