@@ -16,4 +16,10 @@ p {
   font-family: Arial
 }
 
-
+/*
+  Added by: @tomm-aus
+ */
+div {
+  background-color: darkcyan;
+  text-align: right;
+}
